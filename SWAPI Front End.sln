@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToAPI", "..\BlueBadge\API_Lessons\IntroToAPI\IntroToAPI.csproj", "{6092E843-9B07-4C5B-B6A2-FFA1E33883A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6092E843-9B07-4C5B-B6A2-FFA1E33883A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6092E843-9B07-4C5B-B6A2-FFA1E33883A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6092E843-9B07-4C5B-B6A2-FFA1E33883A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6092E843-9B07-4C5B-B6A2-FFA1E33883A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8DE59D-3F2C-4F2A-A564-895C8CF6A32F}
+	EndGlobalSection
+EndGlobal
